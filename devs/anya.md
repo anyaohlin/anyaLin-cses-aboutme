@@ -7,4 +7,4 @@ https://github.com/anyaohlin/anyaLin-cses-aboutme
 In Progress
 
 ## Notes
-- Just set up
+- Just set up - Task 0
